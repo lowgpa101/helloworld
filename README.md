@@ -1,2 +1,2 @@
-# helloworld
-test directory for simple hello world project
+#README
+This file is the readme.md file for the Hello World project
